@@ -2,6 +2,8 @@
 
 This game is a commemorative game for 300 subscribers to the JkhTV(Development Art TV) channel.
 
+[Download](https://d-jangkhtv.itch.io/subscriber-300-new-game)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/@NewLand2019-JkhTV)
