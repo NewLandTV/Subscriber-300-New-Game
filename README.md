@@ -2,7 +2,30 @@
 
 This game is a commemorative game for 300 subscribers to the JkhTV(Development Art TV) channel.
 
-<iframe frameborder="0" src="https://itch.io/embed/1794385?bg_color=9f9f99&amp;fg_color=ffffff&amp;link_color=0040f7&amp;border_color=000000" width="552" height="167"><a href="https://d-jangkhtv.itch.io/subscriber-300-new-game">Subscriber 300 New Game by JkhTV</a></iframe>
+<a href="https://d-jangkhtv.itch.io/subscriber-300-new-game">Download 300N</a>
+
+## Videos (영상)
+
+[![300명 (구독자 N명 기념)](https://img.youtube.com/vi/RbHqg6KLNMY/0.jpg)](https://www.youtube.com/watch?v=RbHqg6KLNMY)
+
+## History (역사)
+
+### 2022
+
+- 11.16. Reached 300 Subscribers.
+- 11.18. 20:15 Upload **Subscriber 300 New Game** Video.
+
+### 2024
+
+- 04.06. Upload Project on GitHub.
+
+### 2025
+
+- 11.13. Fix YouTube URL on GitHub README.
+
+### 2026
+
+- 11.08. Build v1.0 Something Remaked **300N**.
 
 # Links(링크)
 
